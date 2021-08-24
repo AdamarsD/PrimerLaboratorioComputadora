@@ -1,0 +1,7 @@
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\bin\Debug\Computador.exe.config
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\bin\Debug\Computador.exe
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\bin\Debug\Computador.pdb
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\obj\Debug\Computador.csproj.AssemblyReference.cache
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\obj\Debug\Computador.csproj.CoreCompileInputs.cache
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\obj\Debug\Computador.exe
+C:\Users\Divvina Misericordia\OneDrive\Documents\GitHub\PrimerLaboratorioComputadora\Computador\Computador\obj\Debug\Computador.pdb
