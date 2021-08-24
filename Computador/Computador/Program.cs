@@ -21,6 +21,8 @@ namespace Computador
 
             Console.WriteLine(nclscomputador.Encender(clscomputador));
             Console.ReadLine();
+
+            // Adamaris Díaz:)
         }
     }
 }
